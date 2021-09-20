@@ -1,0 +1,32 @@
+
+
+h1 {
+    color: blue;
+    background-color: orange;
+    margin: 25px 25px 25px 25px;
+    font-variant: small-caps;
+}
+
+h2 {
+    padding: 15px;
+    color: red;
+    background-color: black;
+    font-family: "Times New Roman", "serif";
+    font-size: 30pt;
+    font-style: normal;
+    font-variant: small-caps;
+    text-align: left;
+}
+
+#best {
+    color: red;
+    font-size: large;
+}
+
+
+.better {
+    background-color: blue;
+    font-weight: bold;
+    font-size: 20pt;
+
+}
